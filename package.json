@@ -1,0 +1,24 @@
+{
+  "name": "atividade_01_ppi",
+  "version": "1.0.0",
+  "description": "Aplicação Web para Reajuste Salarial",
+  "homepage": "https://github.com/VinQueiroz18/Atividade_01_PPI#readme",
+  "bugs": {
+    "url": "https://github.com/VinQueiroz18/Atividade_01_PPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinQueiroz18/Atividade_01_PPI.git"
+  },
+  "license": "ISC",
+  "author": "Vinicius Queiroz",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
